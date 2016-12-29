@@ -1,0 +1,2 @@
+# djangular
+Django and AngularJS
